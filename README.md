@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [La Bijouterie Marseillaise](https://github.com/HH-SHOT/Bijouterie)
 
-- 🌱 I’m currently learning **Next.js and Flutter**
+- 🌱 I’m currently learning **Next.js and Django**
 
 - 📫 How to reach me **Hamzaelhakkioui@outlook.com**
 
