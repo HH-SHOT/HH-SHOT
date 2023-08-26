@@ -1,7 +1,7 @@
 <h1 align="center">I'm Hamza EL HAKKIOUI</h1>
 <h3 align="center">A Full Stack Web Developer developer from Paris</h3>
 
-- 🔭 I’m currently working on [La Bijouterie Marseillaise](https://github.com/HH-SHOT/Bijouterie)
+- 🔭 I’m currently working on [Twitter Username checker](https://twitter-checker-delta.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js and Django**
 
