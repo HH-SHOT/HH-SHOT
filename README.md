@@ -1,9 +1,9 @@
 <h1 align="center">I'm Hamza EL HAKKIOUI</h1>
 <h3 align="center">A Full Stack Web Developer developer from Paris</h3>
 
-- 🔭 I’m currently working on [Twitter Username checker](https://twitter-checker-delta.vercel.app/)
+- 🔭 I’m currently working on [Motion](https://github.com/HH-SHOT/motion)
 
-- 🌱 I’m currently learning **Next.js and Django**
+- 🌱 I’m currently learning **Next.js and Typescript**
 
 - 📫 How to reach me **Hamzaelhakkioui@outlook.com**
 
